@@ -1,1 +1,1 @@
-# personal-game
+# Personal-game
